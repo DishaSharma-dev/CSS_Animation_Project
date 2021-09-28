@@ -85,6 +85,10 @@ body
 		position:relative;
 		top: 1000px;
 	    }
+	
+		body {
+			bacground-size: contain;
+		}
 
 	  }
 
